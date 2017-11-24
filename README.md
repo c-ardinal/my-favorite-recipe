@@ -19,7 +19,7 @@
  - [野菜系](Vegetables)
  - [ごはんもの系](Rices)
  - [麺類](Noodles&Pasta)
- - [スープ・汁物](Soupe)
+ - [スープ・汁物](Soup)
  - [お菓子](Sweets)
  - [その他](Others)
 
