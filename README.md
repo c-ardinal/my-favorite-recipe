@@ -14,14 +14,14 @@
  - 「このおすすめレシピを追加してほしい!!」などでプルリクを送ってくれるのも大歓迎です。ただしあなたが一度は作ったことが有るもののみにしてください。
 
 ## カテゴリ
- - [お肉系](Meats)
- - [魚介系](Seafoods)
- - [野菜系](Vegetables)
- - [ごはんもの系](Rices)
- - [麺類](Noodles&Pasta)
- - [スープ・汁物](Soup)
- - [お菓子](Sweets)
- - [その他](Others)
+ - [お肉系](Meats//README.md)
+ - [魚介系](Seafoods/README.md)
+ - [野菜系](Vegetables/README.md)
+ - [ごはんもの系](Rices/README.md)
+ - [麺類](Noodles&Pasta/README.md)
+ - [スープ・汁物](Soup/README.md)
+ - [お菓子](Sweets/README.md)
+ - [その他](Others/README.md)
 
 ## ライセンス
 GPLv3
