@@ -14,7 +14,7 @@
  - 「このおすすめレシピを追加してほしい!!」などでプルリクを送ってくれるのも大歓迎です。ただしあなたが一度は作ったことが有るもののみにしてください。
 
 ## カテゴリ
- - [お肉系](Meats//README.md)
+ - [お肉系](Meats/README.md)
  - [魚介系](Seafoods/README.md)
  - [野菜系](Vegetables/README.md)
  - [ごはんもの系](Rices/README.md)
